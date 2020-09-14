@@ -23,7 +23,7 @@ function preload(){
 
 
 function setup() {
- createCanvas(1800,900);  
+ createCanvas(1000,500);  
   
 monkey=createSprite(60,190,20,20);
 monkey.addAnimation("running",monkey_running);
